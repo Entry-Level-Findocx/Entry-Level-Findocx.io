@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.b00b2e63.css",
-    "main.js": "/static/js/main.dc573132.js",
-    "static/media/me-2.png": "/static/media/me-2.56149431e9c6ff8de80b.png",
-    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/me-about-1.jpg": "/static/media/me-about-1.0e1d796749d6d29efe98.jpg",
-    "static/media/Cabral_Erven_Joshua_CV.pdf": "/static/media/Cabral_Erven_Joshua_CV.4e8699ea1b13735e97f8.pdf",
-    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "index.html": "/index.html",
-    "main.b00b2e63.css.map": "/static/css/main.b00b2e63.css.map",
-    "main.dc573132.js.map": "/static/js/main.dc573132.js.map"
+    "main.css": "/Entry-Level-Findocx.io/static/css/main.b00b2e63.css",
+    "main.js": "/Entry-Level-Findocx.io/static/js/main.fdb9a12d.js",
+    "static/media/me-2.png": "/Entry-Level-Findocx.io/static/media/me-2.56149431e9c6ff8de80b.png",
+    "static/media/portfolio5.png": "/Entry-Level-Findocx.io/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/me-about-1.jpg": "/Entry-Level-Findocx.io/static/media/me-about-1.0e1d796749d6d29efe98.jpg",
+    "static/media/Cabral_Erven_Joshua_CV.pdf": "/Entry-Level-Findocx.io/static/media/Cabral_Erven_Joshua_CV.4e8699ea1b13735e97f8.pdf",
+    "static/media/portfolio2.jpg": "/Entry-Level-Findocx.io/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/Entry-Level-Findocx.io/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/Entry-Level-Findocx.io/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/Entry-Level-Findocx.io/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/Entry-Level-Findocx.io/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/Entry-Level-Findocx.io/index.html",
+    "main.b00b2e63.css.map": "/Entry-Level-Findocx.io/static/css/main.b00b2e63.css.map",
+    "main.fdb9a12d.js.map": "/Entry-Level-Findocx.io/static/js/main.fdb9a12d.js.map"
   },
   "entrypoints": [
     "static/css/main.b00b2e63.css",
-    "static/js/main.dc573132.js"
+    "static/js/main.fdb9a12d.js"
   ]
 }
